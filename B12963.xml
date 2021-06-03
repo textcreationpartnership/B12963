@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation declaring His Maiesties gracious intention, concerning his commission lately granted, to enquire of new offices erected, and new fees exacted in courts of iustice, since xi⁰ Elizabethæ.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12963</idno><idno type="EEBO-CITATION">99891179</idno>
+  <idno type="VID">188177</idno>
+  <idno type="EEBO-PROQUEST">2240918459</idno>
+  
+            <idno type="STC">STC 8867</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[23]</idno>
+            <idno type="STC">ESTC S100988</idno>
+            <idno type="PROQUEST">ocm99891179</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891179e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188177)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation declaring His Maiesties gracious intention, concerning his commission lately granted, to enquire of new offices erected, and new fees exacted in courts of iustice, since xi⁰ Elizabethæ.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. DC. XXVII. [1627]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: ... VVhite-Hall, the twelfth day of October, in the third yeere of our reigne ... .</note>
+                  <note>Arms 12; Steele notation: euer  erected  2) may vncertaine.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Costs (Law) --  England --  Law and legislation --  Early works to 1800.</term>
+               <term type="topical_term">Lawyers --  Fees --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188177:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <signed>❧ By the King.</signed>
+            </opener>
+            <head>¶ A Proclamation declaring His Maiesties gracious intention, concerning His Commission lately granted, to enquire of new Offices erected, and new Fees exacted in Courts of Iustice, since <hi>xjº Elizabethae.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas Our late deare and Royall Father, King IAMES of euer blessed and happy memory, out of his Princely care for the good of His people, &amp; out of His Iustice to keepe them from exactions &amp; oppres<g ref="char:EOLhyphen"/>sions, was graciously pleased to award a Commission vnder the Greal Seale of <hi>England,</hi> to diuers persons of qualitie &amp; worth, to enquire of, &amp; giue true information to His late Maiesty, what new Offices had been erected in any of His Courts of Iustice, either Ecclesiasticall or Tem<g ref="char:EOLhyphen"/>porall, and when, and by what meanes, and what new Fees had beene exacted or receiued by any Officers, Ministers, or others, of, or in any of those Courts; but departed this life, be<g ref="char:EOLhyphen"/>fore any returne made vnto him of that Seruice, by whose death also, that Commission, amongst others, was determined.</p>
+            <p>Now Wee, obseruing the Acts of so wise, and so iust a Father, haue thought it fit, for the fur<g ref="char:EOLhyphen"/>therance of Iustice, and auoyding of oppression to Our louing Subiects, to make the like Com<g ref="char:EOLhyphen"/>mission, which Wee haue lately done vnder the Great Seale of <hi>England,</hi> and directed the same to diuers Lords, and others, authorizing and commanding Our sayd Commissioners, dili<g ref="char:EOLhyphen"/>gently to attend that Our Seruice, and to giue vs a true and perfect Account, and Information <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> take notice of the said Commission, and of Our gracious intention in the granting thereof, and to whome, and whitherto resort to make their complaints, or to seeke for redresse, Wee haue thought fit to publish and declare, and Wee doe hereby publish and declare the same, and that Our said Commissioners haue receiued Our expresse Commandement and Charge diligently to attend the execution of the sayd Commission, at such fit place or places, in, or about the Citie of <hi>Westminster,</hi> as in their discretions shall bee most conuenient, for the accesse and dis<g ref="char:EOLhyphen"/>patch of all such as shall resort vnto them to giue them any Information or light, for their better proceeding therein.</p>
+            <p>And Wee doe hereby further declare Our gracious and Royall pleasure, that as on the one side Wee would haue no man presume, without iust grounds, to stirre vp causelesse complaints against any Court or Office, or against any Iudge, Officer or Minister, of, in, or belong<g ref="char:EOLhyphen"/>ing vnto any Court or Office, so on the other side, that no man should be disheartned or dis<g ref="char:EOLhyphen"/>couraged to make knowen, and prosecute their iust complaints against any, Wee being resolued to cary Our selfe equally and indifferently towards all men, Our purpose herein beeing chief<g ref="char:EOLhyphen"/>ly to redresse such abuses, as shall bee discouered for the ease and reliefe of Our Subiects, and not to make an Inquisition into the errours past, vpon slight or weake grounds, or vncertaine Informations.</p>
+            <closer>
+               <dateline>Giuen at Our Court at White-Hall, <date>the Twelfth day of October, in the third yeere of Our Reigne, of <hi>England, Scotland, France</hi> and <hi>Jreland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie. M.DC.XXVII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
